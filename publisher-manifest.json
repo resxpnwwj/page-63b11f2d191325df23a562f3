@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "7a911f0f21293ceb794e4d43",
+  "owner": "resxpnwwj",
+  "repo": "page-63b11f2d191325df23a562f3",
+  "title": "忍者云(RenzheCloud)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "63b11f2d191325df23a562f3",
+      "a": "忍者云(RenzheCloud)",
+      "b": "2027最新官网",
+      "entity": "忍者云(RenzheCloud)",
+      "brand": "忍者云(RenzheCloud)",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "c08d07fbb91bbf8f0278793119bab164fd94b6d7c23b1e19fcbce7bd5476345c",
+      "content": {
+        "primary_entity": "忍者云(RenzheCloud)",
+        "keyword1": "忍者云(RenzheCloud)",
+        "keyword2": "2027最新官网",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备类型选择客户端：Windows 与 macOS 用 Clash Verge 或 Surge，iOS 用 Shadowrocket 或 Stash，Android 用 Clash Meta 或 v2rayNG，路由器端可刷 OpenWrt 插件。",
+          "AI_CLIENTS_TITLE": "客户端按设备选",
+          "AI_CLOSING_TEXT": "选好套餐后按客户端文档导入订阅，忍者云就能开始加速。",
+          "AI_CLOSING_TITLE": "开始配置订阅",
+          "AI_DESCRIPTION": "，忍者云(RenzheCloud)提供基础版、旗舰版与团队版三档套餐，分别对应 3 台、5 台与 20 台设备同时在线需求。基础版每月 100GB 流量，旗舰版每月 300GB 并含 IPLC 专线游戏加速，团队版每月 1000GB 且支持企业定制路由。按年付可享 ¥150/年、¥350/年、¥850/年三档价格，订阅周期越长越省。",
+          "AI_FEATURES_INTRO": "围绕套餐档位、设备数量与订阅周期三个方向展开，方便快速判断哪一档更贴合日常使用。",
+          "AI_FEATURES_TITLE": "选择前先看这三点",
+          "AI_FEATURE_TEXT_1": "基础版 100GB/月起步，旗舰版 300GB/月覆盖多设备流媒体和游戏，团队版 1000GB/月适合小团队共享。",
+          "AI_FEATURE_TEXT_2": "同一账号支持多台设备在线，基础版 3 台、旗舰版 5 台、团队版 20 台，换设备时按需选择档位。",
+          "AI_FEATURE_TEXT_3": "月付灵活、年付更省，按年付仅需 ¥150、¥350、¥850，适合确定长期使用后再锁定。",
+          "AI_FEATURE_TITLE_1": "流量按需选档",
+          "AI_FEATURE_TITLE_2": "设备数量匹配",
+          "AI_FEATURE_TITLE_3": "年付更划算",
+          "AI_GUIDE_INTRO": "三步完成从选套餐到导入订阅的配置流程。",
+          "AI_GUIDE_TITLE": "三步完成订阅配置",
+          "AI_HERO_INTRO": "忍者云(RenzheCloud)面向海外加速场景，提供多档订阅套餐与多平台客户端配置方案，按设备数量和月流量选择合适的档位即可开始使用。",
+          "AI_HERO_SUBTITLE": "忍者云多档套餐按需选",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖 100GB 至 1000GB",
+          "AI_HIGHLIGHT_2": "支持 3 台至 20 台设备同时在线",
+          "AI_HIGHLIGHT_3": "按年付仅需 ¥150 起，长期使用更省",
+          "AI_PLANS_INTRO": "基础版 ¥15/月、旗舰版 ¥35/月、团队版 ¥85/月，按年付分别 ¥150、¥350、¥850；对比时先看设备台数和月流量，再决定月付或年付。",
+          "AI_PLANS_TITLE": "套餐对比与周期选择",
+          "AI_STEP_TEXT_1": "按设备数量和月流量确定基础版、旗舰版或团队版，再决定月付还是年付。",
+          "AI_STEP_TEXT_2": "查看所选套餐的适配说明，确认设备系统与客户端类型是否匹配。",
+          "AI_STEP_TEXT_3": "拿到订阅后，按对应客户端文档导入配置，检查连接状态即可使用。",
+          "AI_STEP_TITLE_1": "选择服务档位",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "导入订阅配置",
+          "AI_VISUAL_TITLE": "忍者云套餐一览",
+          "AI_FAQ_ANSWER_1": "基础版每月 100GB 流量、支持 3 台设备；旗舰版每月 300GB、支持 5 台设备，并含 IPLC 专线；团队版每月 1000GB、支持 20 台设备。可按月付或年付。",
+          "AI_FAQ_ANSWER_2": "基础版支持 3 台设备同时在线，旗舰版为 5 台，团队版为 20 台。如家庭成员或办公设备较多，可选择旗舰版或团队版避免频繁下线。",
+          "AI_FAQ_ANSWER_3": "年付更划算，基础版年付 ¥150、旗舰版年付 ¥350、团队版年付 ¥850，相当于按十个月费用使用全年。",
+          "AI_FAQ_ANSWER_4": "订阅周期以月或年为单位，购买后可在各客户端按文档导入订阅信息，月付适合短期体验，年付适合长期稳定使用。",
+          "AI_FAQ_ANSWER_5": "旗舰版和团队版针对流媒体与游戏场景优化，旗舰版含 IPLC 专线游戏加速，团队版提供 VIP 专属高带宽节点与企业定制路由。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "忍者云各套餐分别包含多少流量和设备？",
+          "AI_FAQ_QUESTION_2": "同时在线设备数量不够用怎么办？",
+          "AI_FAQ_QUESTION_3": "月付和年付的价格差别大吗？",
+          "AI_FAQ_QUESTION_4": "订阅周期怎么选更合适？",
+          "AI_FAQ_QUESTION_5": "哪些套餐适合流媒体和游戏加速？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "hxjxsls.cn",
+    "host": "hxjxsls.cn"
+  },
+  "file_hashes": {
+    "index.html": "d14bb0e40e292f36ddcee687b0a01abce20d3639c8b6b56578d86040ba9b3b22",
+    "sitemap.xml": "326bba45eade8cdcd0a813e45182eaee95160baa37bd418a07fb8a33cc6b800a",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "06b36b66df4f62b6502c500f4aace9ae34e66505e3cde028c37add724506c22c",
+    "robots.txt": "399011e62700eedb59fcd6cd8452510806f6a3ee933907ebab21015c4389fc4e",
+    "466788c6adc4b023638a56a8a12e87f6.txt": "5f06c60f327df55e4973e2878efbc0059187017f96c3ec34b6fa6953cca0f71d"
+  },
+  "revision": "51036f7935c3eb32a6cdb5f42a7bfeeb5095871fc45f78a6c269079a84e5fe23"
+}
